@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="no_connection">No internet Connection</string>
+    <string name="status_connecting">Connecting</string>
+    <string name="status_laoding">Loading</string>
+    <string name="rest_error">Something went wrong with the network servis, check API key</string>
+    <string name="serving">Serving</string>
+    <string name="recipe_image">recipe image</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="blank_fragment">No video available for this step</string>
+    <string name="previous"><![CDATA[<< Previous step]]></string>
+    <string name="next"><![CDATA[Next step >>]]></string>
+    <string name="noconnection">No internet connection , video cant be played</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="thumbnail_image">thumbnail image</string>
+</resources>

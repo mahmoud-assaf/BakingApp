@@ -1,0 +1,10 @@
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="150dp"
+    android:minHeight="110dp"
+    android:updatePeriodMillis="1800000"
+
+    android:initialLayout="@layout/bakingapp_appwidget"
+    android:configure="com.mahmoud.bakingapp.MainActivity"
+    android:resizeMode="horizontal|vertical"
+    android:widgetCategory="home_screen">
+</appwidget-provider>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color type="attr" name="colorPrimary">#03b300</color>
+    <color type="attr" name="colorPrimaryDark">#648701</color>
+    <color type="attr" name="colorAccent">#85c931</color>
+    <color type="attr" name="bgStatusNormal">#27a6e6</color>
+    <color type="attr" name="bgStatusError">#fd913f</color>
+</resources>
